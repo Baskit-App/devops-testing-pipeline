@@ -1,2 +1,3 @@
 ada apa ya
-ada doble trigger same time
+ada doble trigger same 
+trigger by PR 
