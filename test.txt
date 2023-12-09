@@ -1,7 +1,1 @@
 ada apa ya
-ada doble trigger same 
-trigger by PR generic-webhooks
-testing 
-trigger by develop
-
-testing
